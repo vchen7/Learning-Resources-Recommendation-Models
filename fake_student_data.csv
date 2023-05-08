@@ -1,0 +1,51 @@
+id,age,gender,education_level,career_fields_of_interest,interest_in_connections,interest_in_creations,interest_in_exploration,interest_in_health,interest_in_living,interest_in_justice, resource1, resource2, resource3
+1001,18,Male,High School,Engineering,4,2,5,3,4,2, Unit 1, Unit 2, Unit 3
+1002,20,Female,Undergraduate,Psychology,3,4,4,4,3,4, Unit 4, Unit 15, Unit 14
+1003,22,Male,Graduate,Business,2,3,2,4,3,5, Unit 9, Unit 2, Unit 6
+1004,19,Female,Undergraduate,Computer Science,5,5,5,5,5,5, Unit 5, Unit 2, Unit 13
+1005,21,Male,Undergraduate,Medicine,4,2,3,5,4,3, Unit 1, Unit 4, Unit 8
+1006,18,Female,High School,Education,3,4,5,2,5,4, Unit 14, Unit 11, Unit 15
+1007,20,Male,Undergraduate,Journalism,2,3,4,2,3,5, Unit 9, Unit 2, Unit 1
+1008,19,Female,Undergraduate,Art and Design,5,5,3,4,5,2, Unit 14, Unit 11, Unit 2
+1009,22,Male,Graduate,Law,4,4,4,3,3,4, Unit 1, Unit 5, Unit 9
+1010,21,Female,Undergraduate,Environmental Science,3,2,5,4,4,5, Unit 10, Unit 11, Unit 12
+1011,18,Male,High School,Architecture,5,4,2,4,3,4, Unit 1, Unit 4, Unit 8
+1012,20,Female,Undergraduate,Social Work,4,3,4,3,4,3, Unit 8, Unit 7, Unit 9
+1013,19,Male,Undergraduate,Finance,2,4,3,4,2,4, Unit 2, Unit 3, Unit 9
+1014,21,Female,Undergraduate,Public Health,3,2,5,5,3,4, Unit 3, Unit 5, Unit 1
+1015,22,Male,Graduate,Engineering,5,5,4,4,5,3, Unit 17, Unit 18, Unit 15
+1016,18,Female,High School,Art and Design,4,5,2,3,4,2, Unit 18, Unit 1, Unit 3
+1017,20,Male,Undergraduate,Political Science,3,4,4,4,5,4, Unit 1, Unit 6, Unit 14
+1018,19,Female,Undergraduate,Communications,5,3,3,3,4,3, Unit 11, Unit 12, Unit 13
+1019,22,Male,Graduate,Computer Science,4,4,5,5,4,4, Unit 13, Unit 15, Unit 16
+1020,21,Female,Undergraduate,History,2,3,2,4,2,5, Unit 18, Unit 16, Unit 2
+1021,18,Male,High School,Psychology,4,4,4,5,4,3, Unit 10, Unit 4, Unit 7
+1022,20,Female,Undergraduate,Biology,5,5,5,5,5,5, Unit 10, Unit 1, Unit 17
+1023,19,Male,Undergraduate,Engineering,3,2,3,2,3,2, Unit 6, Unit 8, Unit 9
+1024,21,Female,Undergraduate,Environmental Science,4,4,5,4,4,5, Unit 6, Unit 7, Unit 1
+1025,22,Male,Graduate,Architecture,2,3,4,2,3,4, Unit 5, Unit 14, Unit 2
+1026,18,Female,High School,Education,3,4,5,2,5,4, Unit 16, Unit 2, Unit 17
+1027,20,Male,Undergraduate,Journalism,2,3,4,2,3,, Unit 3, Unit 8, Unit 1
+1028,19,Female,Undergraduate,Art and Design,5,5,3,4,5,2, Unit 15, Unit 18, Unit 14
+1029,22,Male,Graduate,Law,4,4,4,3,3,4, Unit 4, Unit 17, Unit 3
+1030,21,Female,Undergraduate,Environmental Science,3,2,5,4,4,5, Unit 6, Unit 15, Unit 4
+1031,18,Male,High School,Architecture,5,4,2,4,3,4, Unit 5, Unit 18, Unit 2
+1032,20,Female,Undergraduate,Social Work,4,3,4,3,4,3, Unit 1, Unit 15, Unit 3
+1033,19,Male,Undergraduate,Finance,2,4,3,4,2,4, Unit 14, Unit 2, Unit 7
+1034,21,Female,Undergraduate,Public Health,3,2,5,5,3,4, Unit 10, Unit 1, Unit 2
+1035,22,Male,Graduate,Engineering,5,5,4,4,5,3, Unit 16, Unit 8, Unit 2
+1036,18,Female,High School,Art and Design,4,5,2,3,4,2, Unit 13, Unit 2, Unit 11
+1037,20,Male,Undergraduate,Political Science,3,4,4,4,5,4, Unit 9, Unit 7, Unit 5
+1038,19,Female,Undergraduate,Communications,5,3,3,3,4,3, Unit 8, Unit 7, Unit 6
+1039,22,Male,Graduate,Computer Science,4,4,5,5,4,4, Unit 6, Unit 5, Unit 4
+1040,21,Female,Undergraduate,History,2,3,2,4,2,5, Unit 5, Unit 4, Unit 3
+1041,18,Male,High School,Psychology,4,4,4,5,4,3, Unit 3, Unit 2, Unit 1
+1042,20,Female,Undergraduate,Biology,5,5,5,5,5,5, Unit 1, Unit 5, Unit 9
+1043,19,Male,Undergraduate,Engineering,3,2,3,2,3,2, Unit 4, Unit 5, Unit 
+1044,21,Female,Undergraduate,Environmental Science,4,4,5,4,4,5, Unit 8, Unit 2, Unit 4
+1045,22,Male,Graduate,Architecture,2,3,4,2,3,4, Unit 6, Unit 9, Unit 7
+1046,18,Female,High School,Education,3,4,5,2,5,4, Unit 15, Unit 3, Unit 17
+1047,20,Male,Undergraduate,Journalism,2,3,4,2,3,5, Unit 18, Unit 17, Unit 2
+1048,19,Female,Undergraduate,Art and Design,5,5,3,4,5,2, Unit 15, Unit 3, Unit 17
+1049,22,Male,Graduate,Law,4,4,4,3,3,4, Unit 18, Unit 17, Unit 3
+1050,21,Female,Undergraduate,Environmental Science,3,2,5,4,4,5, Unit 15, Unit 16, Unit 17
